@@ -4,11 +4,11 @@
    
    
 
-   ♦️ Take a look at my website, portfolio, creation pool - whatever you'd like to call it 🎨
+   🔸 Take a look at my website, portfolio, creation pool - whatever you'd like to call it 🎨
 
-   ♦️ Currently, I'm learning React to become a JavaScript wizard 🧙🏼‍♀️
+   🔸 Currently, I'm learning React to become a JavaScript wizard 🧙🏼‍♀️
 
-   ♦️ I also like to spend time TAing at Le Wagon, designing stuff in Figma and fashioning the occasional WordPress project 🧩 
+   🔸 I also like to spend time TAing at Le Wagon, designing stuff in Figma and fashioning the occasional WordPress project 🧩 
 
 
 
