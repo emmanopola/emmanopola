@@ -1,4 +1,4 @@
-### Hey, you!
+### Hey!
 
 **I'm Emma, an aspiring front end developer and web designer based in London. 👾**
    
