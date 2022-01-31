@@ -1,15 +1,6 @@
-### Hey!
+### 
 
-**I'm Emma, an aspiring front end developer and web designer based in London. 👾**
-   
-   
-
-   🔸 Take a look at my website, portfolio, creation pool - whatever you'd like to call it 🎨
-
-   🔸 Currently, I'm learning React to become a JavaScript wizard 🧙🏼‍♀️
-
-   🔸 I also like to spend time TAing at Le Wagon, designing stuff in Figma and fashioning the occasional WordPress project 🧩 
-
+**Hi, I'm Emma, an aspiring junior developer and producer based in London. 👾**
 
 
 You can best reach me via email - emma.nopola1@gmail.com ✨
