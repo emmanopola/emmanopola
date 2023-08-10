@@ -3,7 +3,7 @@
 **Hi, I'm Emma, an aspiring junior developer and producer based in London. 👾**
 
 
-You can best reach me via email - emma.nopola1@gmail.com ✨
+You can best reach me via email - emma.nopola@bond.fi ✨
 
 <!--
 **emmanopola/emmanopola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
